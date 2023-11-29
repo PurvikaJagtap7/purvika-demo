@@ -1,2 +1,3 @@
 # purvika-demo
-This is my first Git Repository 
+
+This is a static spotify clone website
